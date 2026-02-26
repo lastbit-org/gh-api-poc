@@ -1,4 +1,4 @@
-name: Docker Build and Push
+name: Docker Build and Push (Default Runner - GitHub Actions)
 
 on:
   push:
